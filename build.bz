@@ -5,7 +5,7 @@ BUILD=`pwd`
 
 package=$PKG
 name=$NAME
-vrmf=$VERSION
+vrmf=$VERSIONi
 descr="$VENDOR $NAME for $ARCH"
 umask 022
 INFO=$BUILD/build/aix/.info
